@@ -1,0 +1,23 @@
+body{
+background-color: rgb(121, 121, 121);
+    background-image: url(https://www.turismodeobservacion.com/media/fotografias/familia-de-nutrias-395-xl.jpg);
+    background-size: cover;
+}
+.postal{
+    color: beige;
+    font-size: 60px;
+padding: 40px;
+border: darkorange;
+text-align: center;
+margin: 20%;
+font-family: 'Lucida Sans';
+   width: auto;
+    margin: 10%;
+    height: 70%;
+    border: 10%;
+    outline: 18px ridge; border-radius: 3rem; margin-top: 100px; 
+    position:absolute;
+    display: flex;
+    left: 40px;
+    right: 40px;
+}
